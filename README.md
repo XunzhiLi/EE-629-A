@@ -1,2 +1,3 @@
-# EE-629-A
-this is my class (internet of things)  from Stevens
+# This is an <EE-629-A> class
+*this is my class (internet of things)  from Stevens*
+
