@@ -3,8 +3,8 @@
 * id: 10457500
 
 ## Running Instruction: 
-      *precondition: You need to install jupyter notebook to run the code file (can not run in python environment directly).*
-      1. open .ipynb file in jupyter notebook
-      2. 
+*precondition: You need to install jupyter notebook to run the code file (can not run in python environment directly).*
+1. open .ipynb file in jupyter notebook
+2. run all codes following picture instruction
          
 
