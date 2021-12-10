@@ -5,6 +5,6 @@
 ## Running Instruction: 
 *precondition: You need to install jupyter notebook to run the code file (can not run in python environment directly).*
 1. open .ipynb file in jupyter notebook
-2. run all codes following picture instruction：step2 screenshot.pic.jpg
+2. run all codes following picture instruction：![baidu](step2 screenshot.pic.jpg)
          
 
