@@ -5,6 +5,6 @@
 ## Running Instruction: 
 *precondition: You need to install jupyter notebook to run the code file (can not run in python environment directly).*
 1. open .ipynb file in jupyter notebook
-2. run all codes following picture instruction：![image]<img src="https://github.com/XunzhiLi/EE-629-A/blob/363a3aef36c014f80a95615ed6974845e9b7f93f/step2%20screenshot.pic.jpg",width="100px">
+2. run all codes following picture instruction：![image](https://github.com/XunzhiLi/EE-629-A/blob/363a3aef36c014f80a95615ed6974845e9b7f93f/step2%20screenshot.pic.jpg)
          
 
