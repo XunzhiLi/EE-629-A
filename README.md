@@ -15,4 +15,4 @@
 5. For more binary fruit detection, you can just add a cell and input like this:
 * fruitlist=['fruit1','fruit']
 * Fruit_Dectetion(fruitlist)
-* fruit1 and fruit2 are two kinds of fruit that you wanna to detect/classify.
+* (fruit1 and fruit2 are two kinds of fruit that you wanna to detect/classify.)
