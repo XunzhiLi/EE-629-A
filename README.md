@@ -13,6 +13,6 @@
 4. Result analysis: For 'Pineapple' and 'Mango' / Grape White' and 'Grape Pink', the SVM model can 100% detect/classify them. While the result for 'Potato Red' and 'Potato Sweet' is only 78.67%.
 
 5. For more binary fruit detection, you can just add a cell and input like this:
-   fruitlist=['fruit1','fruit']
-   Fruit_Dectetion(fruitlist)
-   fruit1 and fruit2 are two kinds of fruit that you wanna to detect/classify.
+*fruitlist=['fruit1','fruit']
+*Fruit_Dectetion(fruitlist)
+*fruit1 and fruit2 are two kinds of fruit that you wanna to detect/classify.
