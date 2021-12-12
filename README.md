@@ -27,3 +27,6 @@
 * While the accuracy for 'Kiwi', 'Potato Red', 'Potato Sweet', 'Pineapple' is relative lower(77.81%).Because kiwi looks similar to Pineapple and 'Potato Red', 'Potato Sweet' look very semblable. 
 * In addition, the model works very well on peppers in different colors(88.74%).
 
+9. For more mulitple fruit detection, we can just add a cell with two lines and input like this:
+* multi_fruitlist = ['fruit1','fruit2','fruit3'..........]
+* multiple_Fruit_Detect(multi_fruitlist)
