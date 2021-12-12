@@ -20,7 +20,7 @@
 6. To start multiple fruit detection/classification, a package called 'DecisionTreeClassifier' is very important. We use 'from sklearn.tree import DecisionTreeClassifier' to import it.
 7. We define a the new function by using DecisionTree model, train the model with train_dataset and evaluate the model on test_dataset.
 <img src="https://github.com/XunzhiLi/EE-629-A/blob/1b2ec6195ef2d3b41c0331ee2412f17ff62233b7/step7_1.jpg" width="500" />
-<img src="https://github.com/XunzhiLi/EE-629-A/blob/bd5290e8e5a3b8c0d1b8f61f30b584aea1f34ac4/step7_2.pic.jpg" width="500" />
+<img src="https://github.com/XunzhiLi/EE-629-A/blob/80fc4359e968f313da0ed0ec3b493bcb70926ff3/step7_2.jpg" width="500" />
 
 8. For more binary fruit detection, we can just add a cell and input like this:
 * It's clear to see we can detect/classify 'Peach','Potato Red','Mango','Pineapple with a very high accuracy (97.68%), which means almost makes no mistake. 
