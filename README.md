@@ -23,9 +23,9 @@
 <img src="https://github.com/XunzhiLi/EE-629-A/blob/80fc4359e968f313da0ed0ec3b493bcb70926ff3/step7_2.jpg" width="500" />
 
 8. For more binary fruit detection, we can just add a cell and input like this:
-* It's clear to see we can detect/classify 'Peach','Potato Red','Mango','Pineapple with a very high accuracy (97.68%), which means almost makes no mistake. 
-* While the accuracy for 'Kiwi', 'Potato Red', 'Potato Sweet', 'Pineapple' is relative lower(77.81%).Because kiwi looks similar to Pineapple and 'Potato Red', 'Potato Sweet' look very semblable. 
-* In addition, the model works very well on peppers in different colors(88.74%).
+* It's clear to see we can detect/classify 'Peach','Potato Red','Mango','Pineapple with a very high accuracy (96.59%), which means almost makes no mistake. 
+* While the accuracy for 'Kiwi', 'Potato Red', 'Potato Sweet', 'Pineapple' is relative lower(79.90%).Because kiwi looks similar to Pineapple and 'Potato Red', 'Potato Sweet' look very semblable. 
+* In addition, the model works very well on peppers in different colors(85.71%).
 
 9. For more mulitple fruit detection, we can just add a cell with two lines and input like this:
 * multi_fruitlist = ['fruit1','fruit2','fruit3'..........]
