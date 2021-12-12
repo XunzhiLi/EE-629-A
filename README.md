@@ -26,7 +26,4 @@
 * It's clear to see we can detect/classify 'Peach','Potato Red','Mango','Pineapple with a very high accuracy (97.68%), which means almost makes no mistake. 
 * While the accuracy for 'Kiwi', 'Potato Red', 'Potato Sweet', 'Pineapple' is relative lower(77.81%).Because kiwi looks similar to Pineapple and 'Potato Red', 'Potato Sweet' look very semblable. 
 * In addition, the model works very well on peppers in different colors(88.74%).
-9. :
-* It's clear to see we can detect/classify 'Peach','Potato Red','Mango','Pineapple with a very high accuracy (97.68%), which means almost makes no mistake. 
-* While the accuracy for 'Kiwi', 'Potato Red', 'Potato Sweet', 'Pineapple' is relative lower(77.81%).Because kiwi looks similar to Pineapple and 'Potato Red', 'Potato Sweet' look very semblable. 
-* In addition, the model works very well on peppers in different colors(88.74%).
+
