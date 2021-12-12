@@ -18,5 +18,7 @@
 * Fruit_Dectetion(fruitlist)
 * (fruit1 and fruit2 are two kinds of fruit that we wanna to detect/classify.)
 6. To start multiple fruit detection/classification, a package called 'DecisionTreeClassifier' is very important. We use 'from sklearn.tree import DecisionTreeClassifier' to import it.
-7.
+7. We define a the new function by using DecisionTree model, train the model with train_dataset and evaluate the model on test_dataset.
 <img src="https://github.com/XunzhiLi/EE-629-A/blob/924f0d05f7e3a4cfb5087ac86080119676c48f02/step7_1.pic.jpg" width="500" />
+<img src="https://github.com/XunzhiLi/EE-629-A/blob/bd5290e8e5a3b8c0d1b8f61f30b584aea1f34ac4/step7_2.pic.jpg" width="500" />
+
