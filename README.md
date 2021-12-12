@@ -1,4 +1,4 @@
-# This is Machine Learning project based on SVM model to detect fruits(Binary) for CPE 629A.
+# This is Machine Learning project based on SVM and DecisionTree models to detect/classify fruit for CPE 629A.
 * student name: XUNZHI LI
 * id: 10457500
 
